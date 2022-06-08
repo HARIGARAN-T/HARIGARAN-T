@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HARIGARAN-T
 - 👀 I’m interested in Business Analytics
-- 🌱 I’m currently learning MBA Business Analytics in IIT (ISM) DHANBAD
+- 🌱 I’m currently learning MBA Business Analytics in Indian Institutes of Technology,Dhanbad
 - 📫 How to reach me ...harigarankra@gmail.com
 
 <!---
